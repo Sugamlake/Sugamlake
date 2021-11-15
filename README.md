@@ -1,5 +1,5 @@
-#  Hello, my name is Susana Gamboa
-###  Full-stack developer with Mern from MIT.
+#  Hi There 👋🏼 I'm Sussy 👩‍💻
+###  Full-stack developer with Mern from MIT.💡
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sussy183?style=social)](https://twitter.com/sussy183)
 ![GitHub Followers](https://img.shields.io/github/followers/sugamlake?style=social)
@@ -9,7 +9,8 @@
 
 I'm a Full Stack developer I'love my job.
 
-Software development, data science, technological innovation, in all kinds of applications, we work with artificial intelligence, breaking paradigms, we deliver a world of solutions (trial)
+Software development, data science, technological innovation, in all kinds of applications, 
+we work with artificial intelligence, breaking paradigms, we deliver a world of solutions (trial)
 
 
 ## Skills:
