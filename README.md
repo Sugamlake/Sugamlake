@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sussy183?style=social)](https://twitter.com/sussy183)
 ![GitHub Followers](https://img.shields.io/github/followers/sugamlake?style=social)
 
-[![https://github.com/sugamlake]
-</br>
+
+ <img src= "https://github.com/Sugamlake/Sugamlake/blob/main/horizon%20without%20borders.png"/>
 
 I'm a Full Stack developer I'love my job.
 
