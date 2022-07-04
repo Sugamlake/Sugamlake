@@ -20,6 +20,7 @@ we work with artificial intelligence, breaking paradigms, we deliver a world of 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]()
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 ### Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()
@@ -54,17 +55,15 @@ we work with artificial intelligence, breaking paradigms, we deliver a world of 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)]()
 ### IDE
-[![VSC](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 ### Prototyping Platforms
 [![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
 [![RaspBerryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 ## Find me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-susanaGamboa-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/susana-gamboa/)
+[![Twitter](https://img.shields.io/badge/Twitter-@sussy183-1DA1F2?style=for-the-badge)](https://twitter.com/sussy183)
+[![Instagram](https://img.shields.io/badge/Instagram-@sussyust-E4405F?style=for-the-badge)](https://instagram.com/sussyust)
+[![Facebook](https://img.shields.io/badge/Facebook-@sussy.ust-1877F2?style=for-the-badge)](https://facebook.com/sussy.ust)
+[![Email](https://img.shields.io/badge/sugamlake@gmail.com-my_personal_email_(Fast_response_Message+Coffee)_Thank_you!-orange?style=for-the-badge)](mailto:sugamlake@gmail.com) 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@sussy183-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/sussy183)
-[![Instagram](https://img.shields.io/badge/Instagram-@sussyust-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/sussyust)
-[![Facebook](https://img.shields.io/badge/Facebook-@sussy.ust-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/sussy.ust)
-</br>    
 
-## Contact me:
-[![Email](https://img.shields.io/badge/sugamlake@gmail.com-my_personal_email_(Fast_response_Message+Coffee)_Thank_you!-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sugamlake@gmail.com) 
-</br>
