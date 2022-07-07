@@ -9,8 +9,7 @@
 
 I'm a Full Stack developer I'love my job.
 
-Software development, data science, technological innovation, in all kinds of applications, 
-we work with artificial intelligence, breaking paradigms, we deliver a world of solutions (trial)
+Software development, data science, technological innovation, in all kinds of applications.
 
 
 ## Skills:
