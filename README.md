@@ -4,8 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sussy183?style=social)](https://twitter.com/sussy183)
 ![GitHub Followers](https://img.shields.io/github/followers/sugamlake?style=social)
 
-
- <img src= "[![javascript.gif](https://i.postimg.cc/J0qyZWwt/javascript.gif)](https://postimg.cc/6485xgpN)"/>
+![javascript](https://user-images.githubusercontent.com/93014692/193888250-83646a7f-556c-46e5-820e-3cd30266f114.gif)
 
 I'm a Full Stack developer I'love my job.
 
