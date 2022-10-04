@@ -5,7 +5,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/sugamlake?style=social)
 
 
- <img src= "https://github.com/Sugamlake/Sugamlake/blob/main/horizon%20without%20borders.png"/>
+ <img src= "[![javascript.gif](https://i.postimg.cc/J0qyZWwt/javascript.gif)](https://postimg.cc/6485xgpN)"/>
 
 I'm a Full Stack developer I'love my job.
 
